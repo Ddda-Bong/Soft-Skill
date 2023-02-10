@@ -2,7 +2,7 @@
 > *(2023.02 ~ 2023.03)*
 
 ## 참가 인원
-- [이주현](https://github.com/JuHyun419))
+- [이주현](https://github.com/JuHyun419)
 - [문지은](https://github.com/s2moon98)
 - [한지희](https://github.com/jihee-dev)
 - [정세희](https://github.com/jsh-me)
